@@ -1,4 +1,4 @@
-# Motorola Unpacked Drivers
+# MotorolaUnpackedDrivers
 Workaround for bugged .msi unpacking on Windows 11
 
 # Download official driver .msi
