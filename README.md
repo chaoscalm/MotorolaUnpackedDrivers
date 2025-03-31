@@ -11,4 +11,4 @@ https://github.com/Bioruebe/UniExtract2
 
 # Install the driver
 
-Install the required fastboot driver by selectin the extracted location 
+Install the required fastboot driver by selecting the extracted location 
